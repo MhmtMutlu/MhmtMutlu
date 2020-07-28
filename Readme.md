@@ -2,7 +2,7 @@
 
 ![alt text](https://image.freepik.com/free-vector/coding-system-banner_87720-2994.jpg)
 
-I am an Electrical Electronic Engineer and I am very fond of coding. I am always passionate to improve myself about software. Currently, I am trying to make write some projects to evolve my skills and I am going to share them in my GitHub when they will be finished.
+I am an Electrical Electronic Engineer and I am very fond of coding. I am always passionate to improve myself about software. Currently, I am trying to write some projects to evolve my skills and I am going to share them in my GitHub when they will be finished.
 
 # Knowledge 🧠
 
