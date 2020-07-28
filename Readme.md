@@ -6,8 +6,8 @@ I am an Electrical Electronic Engineer and I am very fond of coding. I am always
 
 # Knowledge 🧠
 
-![alt text](~/csharp.png) ![alt text](~/javascript.png) ![alt text](~/html5.png) ![alt text](~/css3.png) ![alt text](~/react.png)
+
 
 # Contact Me 📫
 
-[![alt text](~/../linkedin.png)](https://www.linkedin.com/in/mehmet-mutlu-334890185/) [![alt text](~/../instagram.png)](https://www.instagram.com/_mehmetmutluu) [![alt text](~/../letter.png)](mailto:mhmetmtlu@outlook.com)
+[![alt text](https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png)](https://www.linkedin.com/in/mehmet-mutlu-334890185/) [![alt text](https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-512.png)](https://www.instagram.com/_mehmetmutluu) [![alt text](https://findicons.com/files/icons/2795/office_2013_hd/2000/outlook.png)](mailto:mhmetmtlu@outlook.com)
