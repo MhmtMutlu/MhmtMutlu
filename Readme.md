@@ -1,4 +1,4 @@
-# Hi, My name is Mehmet. 👋, 
+# Hi, My name is Mehmet. 👋
 
 ![alt text](https://image.freepik.com/free-vector/coding-system-banner_87720-2994.jpg)
 
