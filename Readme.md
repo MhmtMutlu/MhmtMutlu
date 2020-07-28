@@ -6,7 +6,7 @@ I am an Electrical Electronic Engineer and I am very fond of coding. I am always
 
 # Knowledge 🧠
 
-![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/csharp.png?raw=true) 
+![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/csharp.png?raw=true) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/javascript.png?raw=true) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/html5.png?raw=true) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/css3.png?raw=true) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/react.png?raw=true)
 
 # Contact Me 📫
 
