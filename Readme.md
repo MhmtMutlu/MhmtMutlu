@@ -4,6 +4,11 @@
 
 I am an Electrical Electronic Engineer and I am very fond of coding. I am always passionate to improve myself about software. Currently, I am trying to write some projects to evolve my skills and I am going to share them in my GitHub when they will be finished.
 
+![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhmtMutlu&hide=contribs,prs&theme=midnight-purple&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilknurs&layout=compact&theme=midnight-purple&show_icons=true)](https://github.com/MhmtMutlu/MhmtMutlu)
+
 # Knowledge 🧠
 
 ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/csharp.png?raw=true) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/javascript.png?raw=true) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/html5.png?raw=true) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/css3.png?raw=true) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/react.png?raw=true)
