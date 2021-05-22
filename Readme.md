@@ -7,7 +7,7 @@ I am an Electrical Electronic Engineer and I am very fond of coding. I am always
 ![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhmtMutlu&hide=contribs,prs&theme=midnight-purple&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilknurs&layout=compact&theme=midnight-purple&show_icons=true)](https://github.com/MhmtMutlu/MhmtMutlu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilknurs&layout=compact&theme=midnight-purple&show_icons=true)](https://github.com/MhmtMutlu)
 
 # Knowledge 🧠
 
