@@ -9,8 +9,8 @@
 
 # Knowledge 🧠
 
-![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/csharp.png?raw=true) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/javascript.png?raw=true) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/html5.png?raw=true) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/css3.png?raw=true) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/react.png?raw=true)
+![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/javascript.png?raw=true) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/react.png?raw=true) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/html5.png?raw=true) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/css3.png?raw=true) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/csharp.png?raw=true)
 
 # Contact Me 📫
 
-[![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/linkedin.png?raw=true)](https://www.linkedin.com/in/mehmet-mutlu-334890185/) [![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/instagram.png?raw=true)](https://www.instagram.com/_mehmetmutluu) [![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/letter.png?raw=true)](mailto:mhmetmtlu@outlook.com)
+[![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/linkedin.png?raw=true)](https://www.linkedin.com/in/mehmettmutlu/) [![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/instagram.png?raw=true)](https://www.instagram.com/_mehmetmutluu) [![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/letter.png?raw=true)](mailto:mhmetmtlu@outlook.com)
