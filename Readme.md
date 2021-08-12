@@ -1,7 +1,7 @@
 <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MhmtMutlu&theme=cobalt" alt="MhmtMutlu"  /></p>
 <hr/>
-<h4 align="center">I am an Electrical Electronic Engineer and I am very fond of coding. Nowadays, I am coding frontend project to evolve my skills.</h4>
+<h4 align="center">I am an Electrical Electronic Engineer and fond of coding. Nowadays, I am coding frontend project to evolve my skills.</h4>
 <hr/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MhmtMutlu&label=Profile%20views&color=0e75b6&style=plastic" alt="MhmtMutlu" /> </p>
 
