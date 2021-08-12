@@ -4,9 +4,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MhmtMutlu&label=Profile%20views&color=0e75b6&style=plastic" alt="MhmtMutlu" /> </p>
 
-![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhmtMutlu&hide=issues&theme=cobalt&show_icons=true)
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=MhmtMutlu&hide=issues&theme=cobalt&show_icons=true" alt="MhmtMutlu" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MhmtMutlu&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="MhmtMutlu" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MhmtMutlu&hide=issues&theme=cobalt&show_icons=true" alt="MhmtMutlu" /></p>
 
 # Knowledge 🧠
 
